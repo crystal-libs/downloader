@@ -1,5 +1,7 @@
 # downloader
 
+[![GitHub release](https://img.shields.io/github/release/trollmao/downloader.svg)](https://github.com/trollmao/downloader/releases)
+
 TODO: Write a description here
 
 ## Installation
