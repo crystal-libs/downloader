@@ -1,0 +1,9 @@
+name: downloader
+version: 0.1.0
+
+authors:
+  - trollmao <trollmao@protonmail.com>
+
+crystal: 1.1.0
+
+license: MIT
