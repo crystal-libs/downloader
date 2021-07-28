@@ -6,7 +6,7 @@ authors:
 
 crystal: 1.1.0
 
-license: trollmao
+license: MIT
 
 description: |
   Easy way to download files via Crystal.
