@@ -7,3 +7,8 @@ authors:
 crystal: 1.1.0
 
 license: MIT
+
+description: |
+  Easy way to download files via Crystal.
+  
+repository: "https://github.com/trollmao/dltestv2"
