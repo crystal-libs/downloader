@@ -11,7 +11,7 @@ Easy way to download files via Crystal.
    ```yaml
    dependencies:
      downloader:
-       github: your-github-user/downloader
+       github: trollmao/downloader
    ```
 
 2. Run `shards install`
@@ -30,13 +30,9 @@ filename = "avatar.png"
 Downloader.download(url, filename)
 ```
 
-## Development
-
-TODO: Write development instructions here
-
 ## Contributing
 
-1. Fork it (https://github.com/trollmao/downloader)
+1. Fork it (<https://github.com/trollmao/downloader>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
