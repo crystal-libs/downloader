@@ -11,4 +11,4 @@ license: MIT
 description: |
   Easy way to download files via Crystal.
   
-repository: "https://github.com/trollmao/dltestv2"
+repository: "https://github.com/trollmao/downloader"
